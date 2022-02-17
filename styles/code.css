@@ -1,0 +1,22 @@
+.enlighter-t-dracula {
+    padding: 32px!important;
+    font-size: 12px!important;
+    border-radius: 10px;
+    font-weight: 400;
+    font-family: 'SF Mono'!important;
+    background: #1E1F35!important;
+}
+
+.enlighter-t-dracula div.enlighter>div {
+    background: #1E1F35!important;
+    line-height: 1.7!important;
+}
+
+.enlighter-default .enlighter-toolbar {
+    display: none!important;
+}
+
+/* SYNTAX */
+body .enlighter-t-dracula .enlighter span {
+    font-weight: 500!important;
+}
